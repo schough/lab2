@@ -37,19 +37,19 @@ body {
 
 /* The different class styles I used for this lab */
 /* Project class */
-.project {
+/*.project {
      margin-left: 20px;
      background-color: #ddffff;
      padding: 20px;
      width:575px;
-}
+}*/
 
 /* Paragraphs in project class */
-.project p {
+/*.project p {
      line-height: 10px;
      font-size: 11px;
      font-variant: small-caps;
-}
+}*/
 
 /* (comma between) .project,.jumbotron = .project or .jumbotron
  * but (no comma) .project .jumbotron = all jumbotrons inside project */
