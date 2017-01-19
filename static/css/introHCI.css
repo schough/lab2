@@ -48,20 +48,8 @@ body {
 .project p {
      line-height: 10px;
      font-size: 11px;
-     letter-spacing: 2px;
      font-variant: small-caps;
 }
 
-
-/* The a href in project class */
-/*.project a hr {
-     height: 120px;
-     width: 200px;
-     opacity: 0.85;
-}*/
-
-/* Attempt at hashtag */
-/*#project1 {
-     background-color:#123456;
-}
-*/
+/* (comma between) .project,.jumbotron = .project or .jumbotron
+ * but (no comma) .project .jumbotron = all jumbotrons inside project */
